@@ -1,0 +1,24 @@
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe.config
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.pdb
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\EntityFramework.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\EntityFramework.SqlServer.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\EntityFramework.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\EntityFramework.SqlServer.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\ru\EntityFramework.resources.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Form1.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Properties.Resources.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.exe
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.pdb
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Dish.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Form2.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\DBkurs.mdf
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\DBkurs_log.ldf
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe.config
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DataBaseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Dishes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Category" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Ves" Type="int" />
+    <Property Name="Price" Type="float" />
+    <Property Name="ImagesDIsh" Type="image" />
+  </EntityType>
+  <EntityType Name="Menu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="NameDish" Type="nvarchar(max)" />
+    <Property Name="Category" Type="nvarchar(max)" />
+    <Property Name="Ves" Type="int" />
+    <Property Name="Price" Type="float" />
+    <Property Name="ImagesDish" Type="image" />
+  </EntityType>
+  <Association Name="ID">
+    <End Role="Menu" Type="Self.Menu" Multiplicity="1" />
+    <End Role="Dishes" Type="Self.Dishes" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Menu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dishes">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище DataBaseModelContainer">
+    <EntitySet Name="Dishes" EntityType="Self.Dishes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Menu" EntityType="Self.Menu" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="ID" Association="Self.ID">
+      <End Role="Menu" EntitySet="Menu" />
+      <End Role="Dishes" EntitySet="Dishes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,130 @@
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Documen\Visual Studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.resources.dll
+C:\Documen\Visual Studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Documen\Visual Studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Dish.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.ResolveComReference.cache
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs.mdf
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\stdole.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.xml
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\меню.doc
+c:\documen\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs.mdf
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\меню.doc
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.xml
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Dish.resources
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Formoprogram.resources
+C:\Users\User\Desktop\Курс\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs_log.ldf
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs.mdf
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs_log.ldf
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\меню.doc
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.xml
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Dish.resources
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Formoprogram.resources
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\User\Desktop\Курс\КУРСОВОЙ NEW\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs.mdf
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\DataKurs_log.ldf
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\меню.doc
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\NetOffice.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\OfficeApi.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\VBIDEApi.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WordApi.xml
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Dish.resources
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Formoprogram.resources
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\User\Desktop\Курс\Ежедневное меню\WinForms15\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache

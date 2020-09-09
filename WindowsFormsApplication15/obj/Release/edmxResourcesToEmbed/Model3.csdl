@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBEntities" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Dishes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Category" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Ves" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="ImagesDish" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Dishesmenu" Relationship="Self.FK_Dishesmenu_Dishes" FromRole="Dishes" ToRole="Dishesmenu" />
+  </EntityType>
+  <EntityType Name="Dishesmenu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idDishes" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Ves" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="idMenu" Type="Int32" />
+    <NavigationProperty Name="Dishes" Relationship="Self.FK_Dishesmenu_Dishes" FromRole="Dishesmenu" ToRole="Dishes" />
+    <NavigationProperty Name="Menu" Relationship="Self.FK_Dishesmenu_Menu" FromRole="Dishesmenu" ToRole="Menu" />
+  </EntityType>
+  <EntityType Name="Menu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DateMenu" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Dishesmenu" Relationship="Self.FK_Dishesmenu_Menu" FromRole="Menu" ToRole="Dishesmenu" />
+  </EntityType>
+  <EntityType Name="Recipes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Composition" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Category" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="idDishes" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_Dishesmenu_Dishes">
+    <End Role="Dishes" Type="Self.Dishes" Multiplicity="0..1" />
+    <End Role="Dishesmenu" Type="Self.Dishesmenu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dishes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dishesmenu">
+        <PropertyRef Name="idDishes" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Dishesmenu_Menu">
+    <End Role="Menu" Type="Self.Menu" Multiplicity="0..1" />
+    <End Role="Dishesmenu" Type="Self.Dishesmenu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dishesmenu">
+        <PropertyRef Name="idMenu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBkursEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Dishes" EntityType="Self.Dishes" />
+    <EntitySet Name="Dishesmenu" EntityType="Self.Dishesmenu" />
+    <EntitySet Name="Menu" EntityType="Self.Menu" />
+    <EntitySet Name="Recipes" EntityType="Self.Recipes" />
+    <AssociationSet Name="FK_Dishesmenu_Dishes" Association="Self.FK_Dishesmenu_Dishes">
+      <End Role="Dishes" EntitySet="Dishes" />
+      <End Role="Dishesmenu" EntitySet="Dishesmenu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Dishesmenu_Menu" Association="Self.FK_Dishesmenu_Menu">
+      <End Role="Menu" EntitySet="Menu" />
+      <End Role="Dishesmenu" EntitySet="Dishesmenu" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
